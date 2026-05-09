@@ -20,7 +20,7 @@ The main purpose of this project is to reduce manual record keeping and provide 
 
 ## 3. GitHub Repository
 
-**GitHub Repository Link:** **https://youtu.be/N4ftKzovxug**
+**GitHub Repository Link:** **https://github.com/Hasaan-04/Smart-Pharmacy-Management-System/tree/main**
 
 ---
 
