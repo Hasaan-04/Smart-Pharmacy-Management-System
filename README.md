@@ -20,7 +20,7 @@ The main purpose of this project is to reduce manual record keeping and provide 
 
 ## 3. GitHub Repository
 
-**GitHub Repository Link:** **[Paste your public GitHub repository link here]**
+**GitHub Repository Link:** **https://youtu.be/N4ftKzovxug**
 
 ---
 
