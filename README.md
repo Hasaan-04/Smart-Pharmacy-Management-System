@@ -26,7 +26,7 @@ The main purpose of this project is to reduce manual record keeping and provide 
 
 ## 4. YouTube Demo Video
 
-**YouTube Demo Link:** **[Paste your YouTube demo video link here]**
+**YouTube Demo Link:** **https://youtu.be/N4ftKzovxug**
 
 ---
 
